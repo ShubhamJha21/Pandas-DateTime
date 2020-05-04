@@ -2,5 +2,5 @@
 ## Tasks
  - Basic of Pandas Datetime 
  - Calculate Present Stocks Of Tesla Motors
- - Calculate delivery time 
+ - Calculate delivery time(Ecommerce.csv)
 
